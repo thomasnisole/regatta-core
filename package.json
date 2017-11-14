@@ -16,5 +16,9 @@
   },
   "scripts": {
     "lint": "tslint -c tslint.json 'src/**/*.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasnisole/regatta-core.git"
   }
 }
